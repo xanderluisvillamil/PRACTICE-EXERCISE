@@ -7,7 +7,7 @@ A python a program that determines whether a number is even or odd assuming that
 3. Enter a whole number, and the program will determine if its odd or even
 
 ### Files Included
-1. Google COLAB
+1. file.name PRACTICE-EXERCISE
 
 ## Members
 Xander Luis A. Villamil (Solo practice)
